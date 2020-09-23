@@ -1,0 +1,51 @@
+Type=Control
+UserControl=TSplitter.ctl
+Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#C:\WINNT\system32\stdole2.tlb#OLE Automation
+Module=modApi32; modApi32.bas
+Class=TControl; TControl.cls
+Class=TControls; TControls.cls
+Module=modProcs; modProcs.bas
+UserControl=TPanel.ctl
+Startup="(None)"
+Name="CSSplitter"
+HelpFile=""
+HelpContextID="0"
+RevisionVer=0
+MajorVer=1
+MinorVer=0
+VersionCompanyName="Catesoft Consultoria"
+VersionLegalCopyright="Copyrights© 2000, Spnorte Tecnologia"
+VersionComments="This software is great my friend"
+VersionFileDescription=""
+VersionLegalTrademarks=""
+VersionProductName="TSplitter Control"
+Description="Catesoft Splitter Control"
+Title="TSplitter Control"
+ExeName32="CSSPLIT.OCX"
+Path32="..\Release"
+Command32=""
+CompatibleMode="1"
+AutoIncrementVer=0
+ServerSupportFiles=0
+CompilationType=0
+OptimizationType=0
+FavorPentiumPro(tm)=0
+CodeViewDebugInfo=0
+NoAliasing=0
+BoundsCheck=0
+OverflowCheck=0
+FlPointCheck=0
+FDIVCheck=0
+UnroundedFP=0
+StartMode=1
+Unattended=0
+Retained=0
+ThreadPerObject=0
+MaxNumberOfThreads=1
+ThreadingModel=1
+
+[MS Transaction Server]
+AutoRefresh=1
+
+[CodeSMART]
+Task_UID=15_03_04_20_15_23

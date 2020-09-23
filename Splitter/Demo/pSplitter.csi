@@ -1,0 +1,16 @@
+[History]
+B0=SplitterDemo/frmMain/mnuHelp_Click
+B1=SplitterDemo/frmMain/TPanel1_Resize
+B2=SplitterDemo/frmMain/cboBack_Click
+B3=SplitterDemo/frmMain/MDIForm_Load
+B4=SplitterDemo/frmSplit/Form_Load
+B5=SplitterDemo/frmSplit/HSplitter2_EndMoving
+B6=SplitterDemo/frmSplit/VSplitter1_EndMoving
+B7=SplitterDemo/frmSplit/Form_Resize
+B8=SplitterDemo/frmSplit/File1_DblClick
+B9=SplitterDemo/frmSplit/Form_QueryUnload
+B10=SplitterDemo/frmSplit/Save
+B11=SplitterDemo/frmSplit/RichTextBox2_Change
+B12=SplitterDemo/frmSplit/RichTextBox1_Change
+B13=SplitterDemo/frmMain/AddItem
+B14=SplitterDemo/frmSplit
